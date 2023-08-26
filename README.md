@@ -10,7 +10,7 @@ It is assumed that the reader is already familiar with all the relevant theoreti
 ## Contributing
 
 If you have suggestions for improvements, alternative implementations, or additional examples, you are encouraged to contribute to the codebase. Your contributions can help make this resource even more valuable for fellow students and researchers.\
-**How to contribute:**\
+**How to contribute:**
 *   If you have ideas for enhancing the existing functions or adding new ones, feel free to submit pull requests.
 *   If you discover issues or bugs, please report them on the repository's issue tracker.
 *   Share your insights, feedback, and suggestions to improve the clarity and effectiveness of the explanations and the code.
